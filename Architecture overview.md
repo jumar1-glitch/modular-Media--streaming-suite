@@ -6,7 +6,6 @@ This project follows a modular, layered architecture for efficient media streami
 ---
 
 ## **1. Presentation Layer**
-- Provides user interfaces (web, mobile).
 - Handles playback, authentication, and user controls.
 
 ## **2. Application/API Layer**
